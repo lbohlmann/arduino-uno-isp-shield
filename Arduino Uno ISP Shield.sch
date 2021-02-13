@@ -485,7 +485,6 @@ NoConn ~ 6800 4000
 NoConn ~ 6800 4100
 NoConn ~ 6800 4200
 NoConn ~ 6800 4300
-NoConn ~ 5200 3900
 Text Notes 8200 1200 0    50   ~ 0
 STATUS LEDS
 Text GLabel 8450 1800 1    50   Input ~ 0
